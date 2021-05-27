@@ -1,2 +1,2 @@
 # NFTFLIX
-NFT Based Entertainment Content Marketplace
+NFT Based Entertainment Content Marketplace.
